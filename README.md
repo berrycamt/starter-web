@@ -16,7 +16,7 @@ Test
 
 ## How to Contribute
 
-Test. Staging Test
+Please fork this repository and then issue pull requests for review.
 
 ### Copyright 
 
