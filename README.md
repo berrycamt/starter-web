@@ -17,3 +17,7 @@ Test
 ## How to Contribute
 
 Test. Staging Test
+
+### Copyright 
+
+2014 Git. Training
